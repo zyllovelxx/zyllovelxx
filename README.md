@@ -16,6 +16,7 @@
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
+  <!--
   <div>
     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
@@ -28,6 +29,7 @@
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
+   -->
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
