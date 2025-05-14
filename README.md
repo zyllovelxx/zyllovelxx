@@ -95,41 +95,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 WakaTime
-<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zyllovelxx&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
-<!--START_SECTION:waka-->
-
 **🐱 My GitHub Data** 
 
 **I'm a Night 🦉** 
 
-
-```
 📅 **I'm Most Productive on Wednesday** 
-
-
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    3 hrs 21 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   3 hrs 21 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-PythonCode5              3 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in C++** 
 
