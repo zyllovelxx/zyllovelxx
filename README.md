@@ -76,12 +76,12 @@ Here are some ideas to get you started:
       <!-- 第一个图片 -->
       <td align="center">
 	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=zyllovelxx&show_icons=true&theme=tokyonight" align="center" />
-       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=zyllovelxx&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
       </td>
       <!-- 第二个图片 -->
       <td align="center">
 	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyllovelxx&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
-        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyllovelxx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
       </td>
     </tr>
     <!-- 第三个图片 -->
@@ -95,10 +95,54 @@ Here are some ideas to get you started:
 
 ---
 
-<H2>Favorite❤️Movie</H2>
-<div align="center">
-<img height="200" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true">
-</div>
+### 📊 WakaTime
+<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zyllovelxx&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
+<!--START_SECTION:waka-->
+
+**🐱 My GitHub Data** 
+
+**I'm a Night 🦉** 
+
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    3 hrs 21 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   3 hrs 21 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+PythonCode5              3 hrs 21 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+
+<!--END_SECTION:waka-->
+
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
+
+---
+
+
+### Future
+在那悠远时光的尽头，夕阳如织，洒下最后一抹温柔的金辉，将天际染成一幅淡雅的水墨画🖼️。万物似乎都沉浸在这一刻的宁静之中，微风轻拂，带着淡淡的凉意与不舍🍃，仿佛在诉说着白日未尽的故事📖。星辰悄然探出头角✨，于夜的帷幕下缓缓铺陈开来，每一颗都在以自己独有的光芒，编织着宇宙的梦幻篇章🌌。此刻，时间仿佛凝固⏳，让人心生无限遐想，关于远方🏞️，关于梦想💫，关于那些平凡日子里不平凡的美好🌈。而我们，就在这浩瀚宇宙的一隅🌌，静静感受着这一切，心中充满了感激🙏与期待💖，继续前行🚶‍♂️🚶‍♀️，在每一个黎明🌅与黄昏🌆之间，追寻生命最绚烂的诗行📜。
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
